@@ -1,0 +1,8 @@
+{
+ "type": [ "Extension" ],
+"provider": [ "IBM" ],
+"software": [ "SPSS Statistics" ],
+"language": [ "Native product" ],
+"category": [ "Utility" ],
+"promotion": [ "No" ] 
+}
