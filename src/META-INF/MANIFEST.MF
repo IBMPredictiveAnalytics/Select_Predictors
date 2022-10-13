@@ -1,4 +1,5 @@
 Name: Select Predictors
+Display-Name: Select Predictors
 Dialog-Specs: Select_Predictors.cfe
 Summary: Automatically select a subset of predictors for use in predic
  tive modeling procedures
@@ -13,3 +14,4 @@ Description: This extension provides a user interface for the SELECTPR
 Author: IBM SPSS
 Version: 1.0.0
 Product-Version: 24
+Product-Version-Maximum: 99
