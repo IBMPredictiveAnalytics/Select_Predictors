@@ -1,6 +1,7 @@
 # Select-Predictors
 ## Automatically select a subset of predictors for use in predictive modeling procedures
 This extension provides a user interface for the SELECTPR  ED command. It takes a specified set of predictor variables as input   and selects a smaller subset for use in predictive modeling procedure  s. A univariable method that considers each predictor in isolation is   used, as opposed to the multivariable method of selecting predictors   that is used by the Naïve Bayes Classifier extension. The Select Pre  dictors extension supports both categorical and scale dependent varia  bles. Large sets of predictors can be handled.
+
 ---
 Installation intructions
 ----
